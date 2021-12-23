@@ -38,10 +38,10 @@ ERROR!
 ERROR!
 Explanation
 
-The diagram below explains the queries: */
+The diagram below explains the queries: 
 
 ----------------------------------------------------------------------------------------------------------------------------------------------
-
+*/
 import java.io.*;
 import java.util.*;
 
