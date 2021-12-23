@@ -49,7 +49,9 @@ Sample Output
 Explanation
 
 There are  positive numbers,  negative numbers, and  zero in the array.
-The proportions of occurrence are positive: , negative:  and zeros: . */
+The proportions of occurrence are positive: , negative:  and zeros: .
+----------------------------------------------------------------------------------------------------------------------------------------------
+*/
 
 
 
